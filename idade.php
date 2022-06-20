@@ -7,8 +7,8 @@
   <title>Document</title>
   <style>
     a{
-      display:flex;
-      font-size: 15px;
+     display:flex;
+     font-size: 15px;
      text-decoration:none;
      margin-top: 10px;
      color: red;
@@ -30,9 +30,9 @@ echo "$nome é $sexo e tem $idade anos";
 ?>
 
 
-
 </div>
 <a href = "index.php">VOLTAR</a>
+
 
   
 </body>
